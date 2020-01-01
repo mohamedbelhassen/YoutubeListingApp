@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Youtube Listing App</string>
+    <!-- Change the following Parse Server URL as required -->
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Change the following Parse Server App ID as required -->
+    <string name="back4app_app_id">put_your_parse_app_id_here</string>
+    <!-- Change the following Parse Server Client Key as required -->
+    <string name="back4app_client_key">put_your_parse_client_key_here</string>
+
+    <string name="category_act_error_message">There is no categories in the app backend</string>
+    <string name="video_act_error_message">There is no videos in the app backend for this category</string>
+
+    <string name="network_problem_message">There is an error encountered. Please check your internet connection</string>
+    <string name="btn_retry_text">Retry</string>
+    <string name="loading_categories_text">Loading video categories</string>
+    <string name="loading_videos_text">Loading videos</string>
+    <string name="loading_youtube_video_text">Loading Youtube video</string>
+
+</resources>

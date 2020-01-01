@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".BrowseCategoriesActivity">
+
+    <android.support.v7.widget.LinearLayoutCompat
+            android:id="@+id/category_act_ll_error"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:visibility="gone"
+    >
+        <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/category_error_message"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:gravity="center"
+        />
+        <android.support.v7.widget.AppCompatButton
+                android:id="@+id/category_act_btn_retry"
+                android:visibility="gone"
+                android:text="@string/btn_retry_text"
+                android:layout_width="match_parent"
+                android:onClick="category_act_btn_retry_clicked"
+                android:layout_height="wrap_content"/>
+    </android.support.v7.widget.LinearLayoutCompat>
+
+    <android.support.v7.widget.LinearLayoutCompat
+            android:id="@+id/category_act_ll_progressbar"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <ProgressBar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <android.support.v7.widget.AppCompatTextView
+                android:text="@string/loading_categories_text"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+    </android.support.v7.widget.LinearLayoutCompat>
+
+    <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_categories"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"/>
+</android.support.v7.widget.LinearLayoutCompat>
