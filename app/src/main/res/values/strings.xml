@@ -3,10 +3,9 @@
     <!-- Change the following Parse Server URL as required -->
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
     <!-- Change the following Parse Server App ID as required -->
-    <string name="back4app_app_id">put_your_parse_app_id_here</string>
+    <string name="back4app_app_id">wNr4Y7IrBGhkJZLcgYH4k8g1jV59ibg7EeGA66Zr</string>
     <!-- Change the following Parse Server Client Key as required -->
-    <string name="back4app_client_key">put_your_parse_client_key_here</string>
-
+    <string name="back4app_client_key">TFI1PTV5FZhsnBzqlFrMRAnWhvhAI17UckXJaPO9</string>
     <string name="category_act_error_message">There is no categories in the app backend</string>
     <string name="video_act_error_message">There is no videos in the app backend for this category</string>
 
