@@ -1,0 +1,14 @@
+In this app (Youtube Video Listing App) the app admin lists some selected videos from Youtube and categorizes them inside the app. So, it is a kind of Youtube Video catalog having an online cloud backend based on Parse Server. Then, the app users can easily browse the listed videos inside the App.
+
+This mobile app is a Demo of the capstone project of our online free course entitled “Build a Youtube Listing App using Kotlin & Parse From Scratch and Step by Step"
+
+The current version of the demo application contains some videos of our Club called "The Creative Team"
+We will successively add many interesting and useful Tutorials and free online courses.
+
+You can follow our online Free course on Youtube at the following URL: 
+http://bit.ly/The_Creative_Team_Playlists
+
+To follow our subsequent Training and tutorials, we kindly ask you to subscribe to our Youtube Channel at this address: 
+
+http://bit.ly/CREATIVE_TEAM_YOUTUBE_CHANNEL
+
