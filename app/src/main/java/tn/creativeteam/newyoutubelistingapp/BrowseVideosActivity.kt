@@ -66,7 +66,7 @@ class BrowseVideosActivity : AppCompatActivity() {
     fun loadVideos(){
         video_act_ll_progressbar.visibility= View.VISIBLE
         val query = ParseQuery<ParseObject>("Video")
-        query.orderByAscending("title")
+        query.orderByDescending("createdAt")
         if(selectedCategoryObjectId!=null){
             val categoryPointer= ParseObject.createWithoutData("Category",selectedCategoryObjectId)
             query.whereEqualTo("category",categoryPointer)
