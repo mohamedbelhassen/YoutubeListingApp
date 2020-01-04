@@ -6,10 +6,12 @@ The current version of the demo application contains some videos of our Club cal
 We will successively add many interesting and useful Tutorials and free online courses.
 
 You can follow our online Free course on Youtube at the following URL: 
-http://bit.ly/The_Creative_Team_Playlists
+
+<a href="https://www.youtube.com/channel/UCAXveSJOkPRjy77R6xT64kA/playlists?view_as=subscriber"> Playlists of our Youtube channel (The Creative Team)</a>
 
 To follow our subsequent Training and tutorials, we kindly ask you to subscribe to our Youtube Channel at this address: 
 
-http://bit.ly/CREATIVE_TEAM_YOUTUBE_CHANNEL
+<a href="https://www.youtube.com/channel/UCAXveSJOkPRjy77R6xT64kA/featured?view_as=subscriber"> Our Youtube channel (The Creative Team)</a>
+
 
 
