@@ -10,8 +10,8 @@ android {
         applicationId "tn.creativeteam.newyoutubelistingapp"
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 4
-        versionName "1.4"
+        versionCode 5
+        versionName "1.5"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
