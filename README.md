@@ -10,24 +10,17 @@ This app uses Parse Server App backend hosted in the Back4app Platform.
 So, added videos will be directly accessible to the app users without needing any app update.
 
 # Build this app from scratch by following our Free online course
-To learn how to create this app from scratch and see how to manage the app backend, you can access our free online course in our Youtube channel called "The creative Team" at this URL: 
-http://bit.ly/The_Creative_Team_Playlists
+To learn how to create your own "Youtube Video Listing App" from scratch and step by step and see how to manage the app backend, you can access our free online course in our Youtube channel called "The creative Team" at this URL: 
+<a href="https://www.youtube.com/channel/UCAXveSJOkPRjy77R6xT64kA/playlists?view_as=subscriber"> Playlists of our Youtube channel (The Creative Team)</a>
 
-
-# App creator 
-This App is Created by Mohamed Belhassen a co-founder of the Creative Team Club: http://creativeteam.tn/
-
-To Learn How to create your own "Youtube Video Listing App" from scratch and step by step, you can access our online free course using the following URL:
-http://bit.ly/BuildBasicYoutubeApp
-
-#Follow us
+# Follow us
 
 Follow us on the following social Media to get many other free Trainings and Tips
 
 Facebook Page: https://www.facebook.com/creative.team.tunisia/
-Youtube: http://bit.ly/CREATIVE_TEAM_YOUTUBE_CHANNEL
+Youtube: <a href="https://www.youtube.com/channel/UCAXveSJOkPRjy77R6xT64kA/featured?view_as=subscriber"> Playlists of our Youtube channel (The Creative Team)</a>
 
-Our website address: http://www.creativeteam.tn
+Our website address: https://www.creativeteam.tn
 
 
 ## Building
@@ -45,6 +38,6 @@ Target SDK: 28
 
 -App Launcher Icon image used inside this App is licensed under Flaticon Basic License: https://file000.flaticon.com/downloads/license/license.pdf
 
-Picture attribution: App Launcher Icon made by Freepik (https://www.flaticon.com/authors/freepik) from www.flaticon.com"
+Picture attribution: App Launcher Icon made by Freepik (https://www.flaticon.com/authors/freepik) from https://www.flaticon.com"
 
 -Picture used to depict empty imageView is free and downlaoded from: https://www.freeicons.io/material-icons-device-3/image-icon-3267#
