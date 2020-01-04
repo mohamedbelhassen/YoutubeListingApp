@@ -18,7 +18,7 @@ To learn how to create your own "Youtube Video Listing App" from scratch and ste
 Follow us on the following social Media to get many other free Trainings and Tips
 
 Facebook Page: https://www.facebook.com/creative.team.tunisia/
-Youtube: <a href="https://www.youtube.com/channel/UCAXveSJOkPRjy77R6xT64kA/featured?view_as=subscriber"> Playlists of our Youtube channel (The Creative Team)</a>
+Youtube: <a href="https://www.youtube.com/channel/UCAXveSJOkPRjy77R6xT64kA/featured?view_as=subscriber"> The Creative Team </a>
 
 Our website address: https://www.creativeteam.tn
 
