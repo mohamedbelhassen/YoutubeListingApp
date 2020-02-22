@@ -1,5 +1,1 @@
-This app is a kind of Youtube Video catalog having an online cloud backend based on Parse Server. 
-The videos are pre-classified by the app admin into various categories. 
-When a video is added to the app backend, it becomes directly available to the app users.
-
-
+An Youtube Video catalog with an online cloud backend based on Parse Server
