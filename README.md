@@ -3,11 +3,17 @@
 This application allows to list Youtube videos and categorize them into different categories defined by the app administrator. 
 The app backend is based on the Parse Server open source technology initially created by Facebook.
 
-
 The application requires the permission "INTERNET" and "ACCESS_NETWORK_STATE" in order to access the online backend database hosting data about video categories and videos listed inside the app.
 
 This app uses Parse Server App backend hosted in the Back4app Platform.
 So, added videos will be directly accessible to the app users without needing any app update.
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/tn.creativeteam.newyoutubelistingapp/)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">](https://play.google.com/store/apps/details?id=tn.creativeteam.newyoutubelistingapp)
 
 # Build this app from scratch by following our Free online course
 To learn how to create your own "Youtube Video Listing App" from scratch and step by step and see how to manage the app backend, you can access our free online course in our Youtube channel called "The creative Team" at this URL: 
