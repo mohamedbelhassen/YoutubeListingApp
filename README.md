@@ -16,7 +16,7 @@ So, added videos will be directly accessible to the app users without needing an
      height="80">](https://play.google.com/store/apps/details?id=tn.creativeteam.newyoutubelistingapp)
 
 # Build this app from scratch by following our online course
-To learn how to create your own "Youtube Video Listing App" from scratch and step by step and see how to manage the app backend, you can access our <a href="https://www.udemy.com/course/android-build-a-youtube-listing-app-using-kotlin-parse/?referralCode=CD687A105950B414104C"> online course on Udemy: Android: Build a Youtube Listing App Using Kotlin & Parse </a>
+To learn how to create your own "Youtube Video Listing App" from scratch and step by step and see how to manage the app backend, you can access our online course on Udemy: <a href="https://www.udemy.com/course/android-build-a-youtube-listing-app-using-kotlin-parse/?referralCode=CD687A105950B414104C"> Android: Build a Youtube Listing App Using Kotlin & Parse </a>
 
 # Follow us
 
